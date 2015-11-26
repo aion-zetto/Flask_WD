@@ -1,0 +1,1 @@
+@"C:\Documents and Settings\Devil Dante\PycharmProjects\Flask WD\venv\Scripts\python.exe" "C:\Documents and Settings\Devil Dante\PycharmProjects\Flask WD\venv\Scripts\markdown_py" %*
